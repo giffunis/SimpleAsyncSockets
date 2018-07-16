@@ -5,10 +5,10 @@ using System.Net.Sockets;
 namespace SimpleAsyncSockets{
     public abstract class ISimpleAsyncListener{
 
-        IPEndPoint ipEndPoint;
-        int backlog;
+        protected IPEndPoint ipEndPoint;
+        protected int backlog;
 
-        TcpListener listener;
+        protected TcpListener listener;
 
 
         public ISimpleAsyncListener(){
@@ -29,7 +29,7 @@ namespace SimpleAsyncSockets{
             listener.Start();
         }
 
-        public abstract void Listen();
+        public abstract void StartListening();
 
     }
 }

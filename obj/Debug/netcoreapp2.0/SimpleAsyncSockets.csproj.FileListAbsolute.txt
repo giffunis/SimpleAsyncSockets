@@ -1,0 +1,11 @@
+/Users/giffu/Projects/SimpleAsyncSockets/bin/Debug/netcoreapp2.0/SimpleAsyncSockets.deps.json
+/Users/giffu/Projects/SimpleAsyncSockets/bin/Debug/netcoreapp2.0/SimpleAsyncSockets.runtimeconfig.json
+/Users/giffu/Projects/SimpleAsyncSockets/bin/Debug/netcoreapp2.0/SimpleAsyncSockets.runtimeconfig.dev.json
+/Users/giffu/Projects/SimpleAsyncSockets/bin/Debug/netcoreapp2.0/SimpleAsyncSockets.dll
+/Users/giffu/Projects/SimpleAsyncSockets/bin/Debug/netcoreapp2.0/SimpleAsyncSockets.pdb
+/Users/giffu/Projects/SimpleAsyncSockets/obj/Debug/netcoreapp2.0/SimpleAsyncSockets.csprojResolveAssemblyReference.cache
+/Users/giffu/Projects/SimpleAsyncSockets/obj/Debug/netcoreapp2.0/SimpleAsyncSockets.csproj.CoreCompileInputs.cache
+/Users/giffu/Projects/SimpleAsyncSockets/obj/Debug/netcoreapp2.0/SimpleAsyncSockets.AssemblyInfoInputs.cache
+/Users/giffu/Projects/SimpleAsyncSockets/obj/Debug/netcoreapp2.0/SimpleAsyncSockets.AssemblyInfo.cs
+/Users/giffu/Projects/SimpleAsyncSockets/obj/Debug/netcoreapp2.0/SimpleAsyncSockets.dll
+/Users/giffu/Projects/SimpleAsyncSockets/obj/Debug/netcoreapp2.0/SimpleAsyncSockets.pdb
