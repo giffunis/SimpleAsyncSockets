@@ -1,5 +1,6 @@
 
 using System;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -9,6 +10,12 @@ namespace SimpleAsyncSockets.AsyncTcpSockets{
         private int connectedClients = 0;
 
         public const string ENDS_MARK = "<EOF>";
+
+        public AsyncTcpListener () : base() {}
+
+        public AsyncTcpListener (int port) : base(port) {}
+
+        public AsyncTcpListener (IPAddress ipAddress, int port) : base(ipAddress, port) {}
 
         public override void StartListening()
         {
